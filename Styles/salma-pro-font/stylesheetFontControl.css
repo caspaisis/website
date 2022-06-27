@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'salma_promedium';
+    src: url('salmapromedium-0wooo-webfont.woff2') format('woff2'),
+         url('salmapromedium-0wooo-webfont.woff') format('woff'),
+	 url('SalmaProMedium-0Wooo.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'salma_promedium_narrow';
+    src: url('salmapromediumnarrow-vg5v6-webfont.woff2') format('woff2'),
+         url('salmapromediumnarrow-vg5v6-webfont.woff') format('woff'),
+	 url('SalmaProMedium-VG5v6.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
